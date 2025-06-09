@@ -35,14 +35,7 @@ export default function AboutSection() {
                 className="w-full h-full object-cover"
               />
             </div>
-            <div className="absolute -bottom-6 -right-6 w-32 h-32 rounded-2xl bg-primary flex items-center justify-center shadow-lg">
-              <div className="text-center">
-                <p className="text-xl font-bold text-primary-foreground">5+</p>
-                <p className="text-xs text-primary-foreground">
-                  Years of Experience
-                </p>
-              </div>
-            </div>
+            
           </MotionDiv>
 
           <MotionDiv
