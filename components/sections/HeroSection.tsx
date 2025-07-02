@@ -113,7 +113,7 @@ export default function HeroSection() {
           >
             <div className="relative w-64 h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-xl">
               <img
-                src="https://i.ibb.co/2pd4h3K/profile-Photo.png"
+                src="https://i.ibb.co/JRLZQcvw/DSC-0629gg.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
