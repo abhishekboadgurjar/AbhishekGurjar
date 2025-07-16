@@ -92,7 +92,7 @@ export default function HeroSection() {
                 <Link href="#projects">View My Work</Link>
               </Button>
               <a
-  href="https://drive.google.com/file/d/1zjf1JmMO_3MCgyqv5U1En28pg7FVT5_R/view?usp=drive_link"
+  href="https://drive.google.com/file/d/1pNI0-arg7_5J3qCWma_t-0Ub9VL9C5E7/view"
   target="_blank"
   rel="noopener noreferrer"
 >
