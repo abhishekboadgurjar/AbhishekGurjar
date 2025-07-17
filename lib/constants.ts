@@ -149,18 +149,18 @@ export const skills = [
 export const aboutMe = {
   description: `I'm a passionate Full Stack MERN Developer skilled in building scalable, high-performance web applications. Proficient in creating responsive interfaces and secure RESTful APIs using MongoDB, Express.js, React.js, and Node.js. Dedicated to delivering efficient, user-friendly solutions that drive business growth.`,
   experience: [
-    {
-    position: "React Native Developer Intern",
-    company: "Baron Capitale",
-    period: "June 2025 - Present",
-    description: "Building and maintaining cross-platform mobile applications using React Native. Collaborating with design and backend teams to deliver seamless, high-performance user experiences. Optimizing mobile app performance and ensuring platform-specific compliance across Android and iOS.",
+{
+    "position": "Frontend Developer Intern",
+    "company": "Baron Capitale",
+    "period": "June 2025 - Present",
+    "description": "Developing and maintaining cross-platform mobile and web applications using React Native, React.js, and Next.js. Collaborating with UI/UX designers and backend developers to build seamless, high-performance experiences. Focused on optimizing performance, ensuring platform-specific compliance across Android, iOS, and web."
   },
-    {
-      position: "React Developer Intern",
-      company: "Quest Digiflex",
-      period: "February 2025 - May 2025",
-      description: "Engineered responsive and reusable UI components using React.js, improving application maintainability by 30%. Implemented efficient state management solutions using Redux and Context API, reducing data loading time by 40%. Enhanced application performance through implementation of lazy loading and code splitting techniques.",
-    },
+  {
+    "position": "Frontend Developer Intern",
+    "company": "Quest Digiflex",
+    "period": "February 2025 - May 2025",
+    "description": "Built responsive and reusable UI components using React.js and Next.js, improving maintainability by 30%. Implemented state management using Redux and Context API, reducing data load time by 40%. Enhanced performance via lazy loading and code splitting techniques."
+  },
     {
       position: "Backend Developer Intern",
       company: "Tastezy LLP",
